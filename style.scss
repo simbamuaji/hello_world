@@ -1,0 +1,10 @@
+.logo {
+  background: url("{{'logo.png' | asset_url}}");
+  background-repeat: no-repeat;
+  background-size: 33% 64%;
+  background-position: center;
+  height: 41px;
+}
+
+.app-box {
+  border-radius: 3px;
